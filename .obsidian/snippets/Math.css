@@ -1,0 +1,57 @@
+/* General styling for block LaTeX math */
+.math-block > mjx-container[jax="CHTML"] {
+    font-size: 1.2em; /* Adjust for preferred size */
+    white-space: normal; /* Allow line breaks */
+    word-wrap: break-word; /* Break long words */
+    overflow-wrap: break-word; /* Break long words */
+    display: block;
+    max-width: 100%; /* Ensure container doesn’t overflow horizontally */
+    word-break: break-word; /* Ensure word breaks happen inside the math expression */
+    box-sizing: border-box; /* Prevent horizontal overflow */
+}
+
+/* Add spacing inside brackets for clarity */
+.math-block > mjx-container[jax="CHTML"] .mjx-l,
+.math-block > mjx-container[jax="CHTML"] .mjx-r {
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+}
+
+/* Style math operators */
+.math-block > mjx-container[jax="CHTML"] .mjx-operator,
+.math-inline > mjx-container[jax="CHTML"] .mjx-operator {
+    color: var(--color-accent); /* Accent color for operators */
+    font-weight: bold; /* Bold text for operators */
+}
+
+/* Ensure spacing between math elements */
+.math-block > mjx-container[jax="CHTML"] .mjx-mn,
+.math-block > mjx-container[jax="CHTML"] .mjx-mi,
+.math-inline > mjx-container[jax="CHTML"] .mjx-mn,
+.math-inline > mjx-container[jax="CHTML"] .mjx-mi {
+    margin: 0 0.1em;
+}
+
+/* Styling for inline LaTeX math */
+.math-inline > mjx-container[jax="CHTML"] {
+    font-size: 1.2em;
+    padding: 0.1em 0.5em;
+    border-radius: 10px;
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1); /* Subtle shadow for inline math */
+}
+
+/* Add background and border for block math */
+.math-block {
+    background-color: var(--background-secondary);
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid var(--background-modifier-border);
+    margin: 1em 0;
+    max-width: 100%; /* Prevent overflow beyond the container */
+    overflow-wrap: break-word; /* Wrap words */
+    word-wrap: break-word;
+    white-space: normal;
+    box-sizing: border-box; /* Prevent horizontal scrolling */
+}

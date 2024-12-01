@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "accentColor": "#818cf8",
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Math"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
+}
