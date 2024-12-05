@@ -4,5 +4,11 @@
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
   "vauxhall@@main-color": "vauxhall-white",
   "vauxhall@@color-intensity": "intensity-void",
-  "vauxhall@@header-color-type": "headers-gradient-blue-to-red"
+  "vauxhall@@header-color-type": "headers-gradient-blue-to-red",
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-advanced@@hide-settings-desc": false,
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@mobile-toolbar-off": false,
+  "minimal-style@@h1-size": "1.em"
 }
