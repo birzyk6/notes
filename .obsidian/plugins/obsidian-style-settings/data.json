@@ -3,6 +3,6 @@
   "catppuccin-icon-styles@@ctp-icon-hide": false,
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
   "vauxhall@@main-color": "vauxhall-white",
-  "vauxhall@@color-intensity": "intensity-nebula",
-  "vauxhall@@header-color-type": "headers-colorful"
+  "vauxhall@@color-intensity": "intensity-void",
+  "vauxhall@@header-color-type": "headers-gradient-blue-to-red"
 }

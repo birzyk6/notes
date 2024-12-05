@@ -1,9 +1,9 @@
 {
-  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
-  "textFontFamily": "JetBrainsMonoNL Nerd Font Mono",
-  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "accentColor": "#818cf8",
-  "cssTheme": "Vauxhall",
+  "cssTheme": "Tokyo Night",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Math"
