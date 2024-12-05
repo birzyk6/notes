@@ -3,11 +3,11 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "accentColor": "#818cf8",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Math"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 15
+  "baseFontSize": 17
 }
