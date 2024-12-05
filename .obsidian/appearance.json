@@ -1,14 +1,15 @@
 {
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "",
+  "interfaceFontFamily": "SN Pro",
+  "textFontFamily": "SN Pro",
+  "monospaceFontFamily": "SN Pro",
   "accentColor": "#818cf8",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "Math"
+    "Math",
+    "Colored Sidebar Items"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
+  "baseFontSize": 20,
   "showViewHeader": false,
   "nativeMenus": false
 }

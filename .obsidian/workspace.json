@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5110321044922,
-    "collapsed": true
+    "width": 223.5110321044922
   },
   "right": {
     "id": "e0dd6211ad13a54f",
@@ -188,10 +187,10 @@
   },
   "active": "72aab5f3eb9c8f6b",
   "lastOpenFiles": [
-    "02 Projekt PHP/rocksa.pl.md",
-    "01 Sztuczna inteligencja/05-12-2024.md",
-    "02 Projekt PHP",
     "00 Latex/LateX - learning.md",
+    "01 Sztuczna inteligencja/05-12-2024.md",
+    "02 Projekt PHP/rocksa.pl.md",
+    "02 Projekt PHP",
     "01 Sztuczna inteligencja",
     "README.md",
     "00 Latex"

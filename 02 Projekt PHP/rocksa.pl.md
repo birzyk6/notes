@@ -1,3 +1,17 @@
 ## Wynajem Skał Na Godziny.
 
-- słona 
+## Typy:
+- słona - stara 
+- lita - 
+- porowata
+- wulkaniczna
+- krzemowa
+- lessowa
+- krystaliczna (najlepsza)
+---
+## Waga:
+
+---
+# Wiek:
+
+---

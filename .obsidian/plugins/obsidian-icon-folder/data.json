@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPhpstorm",
+      "BoBxlPhp",
       "LiBrain",
       "TiMathFunction"
     ],
@@ -31,5 +33,6 @@
     "debugMode": false
   },
   "00 Latex": "TiMathFunction",
-  "01 Sztuczna inteligencja": "LiBrain"
+  "01 Sztuczna inteligencja": "LiBrain",
+  "02 Projekt PHP": "SiPhpstorm"
 }

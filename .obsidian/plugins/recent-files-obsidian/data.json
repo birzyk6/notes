@@ -5,12 +5,16 @@
       "path": "01 Sztuczna inteligencja/05-12-2024.md"
     },
     {
-      "basename": "rocksa.pl",
-      "path": "03 Projekt PHP/rocksa.pl.md"
-    },
-    {
       "basename": "LateX - learning",
       "path": "00 Latex/LateX - learning.md"
+    },
+    {
+      "basename": "rocksa.pl",
+      "path": "02 Projekt PHP/rocksa.pl.md"
+    },
+    {
+      "basename": "rocksa.pl",
+      "path": "03 Projekt PHP/rocksa.pl.md"
     }
   ],
   "omittedPaths": [],
