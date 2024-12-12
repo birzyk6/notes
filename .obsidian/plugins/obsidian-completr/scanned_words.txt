@@ -32,6 +32,8 @@ jest
 to
 te
 tak
+tu
+tam
 przydatne
 przez
 pojawia
@@ -41,6 +43,8 @@ przestrzeni
 przyk
 podzielenie
 punkty
+polepszy
+popieprzy
 dzie
 dy
 dwie
@@ -59,6 +63,7 @@ szego
 siada
 skupiska
 spe
+sie
 Bardzo
 fajne
 funkcja
@@ -123,3 +128,4 @@ Klasyfikator
 Klasyfikatory
 bnianiu
 liniowa
+To
