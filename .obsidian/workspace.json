@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72aab5f3eb9c8f6b",
+            "id": "8903e6cf2b521de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Sztuczna inteligencja/05-12-2024.md",
+                "file": "03 Projekt Java/Opis aplikacji obsługi mikroskopu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-12-2024"
+              "title": "Opis aplikacji obsługi mikroskopu"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Sztuczna inteligencja/05-12-2024.md"
+                "file": "03 Projekt Java/Opis aplikacji obsługi mikroskopu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 05-12-2024"
+              "title": "Outline of Opis aplikacji obsługi mikroskopu"
             }
           },
           {
@@ -181,13 +181,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72aab5f3eb9c8f6b",
+  "active": "8903e6cf2b521de6",
   "lastOpenFiles": [
-    "00 Latex/LateX - learning.md",
     "01 Sztuczna inteligencja/05-12-2024.md",
+    "03 Projekt Java/Opis aplikacji obsługi mikroskopu.md",
+    "03 Projekt Java",
+    "00 Latex/LateX - learning.md",
     "02 Projekt PHP/rocksa.pl.md",
     "02 Projekt PHP",
     "01 Sztuczna inteligencja",
